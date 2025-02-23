@@ -143,11 +143,11 @@ nav a:hover {
 
 
     .card {
-        display: inline-block;
+        display:block;
         vertical-align: top;
         /* margin: 10px; */ 
         position: relative;
-        width: 850px;
+        width: 660px;
         height: 800px;
         background-color: #c9e28f;
         
@@ -200,13 +200,13 @@ nav a:hover {
     }
     
     .cardos{
-        display: inline-block;
+        display:block;
         vertical-align: top; 
         /* margin: 10px; */ 
         position: relative;
-        left: 890px;
+        left: 683px;
         bottom: 800px;
-        width: 900px;
+        width: 664px;
         height: 800px; 
         background-color: #29433d;
     }
