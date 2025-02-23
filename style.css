@@ -147,7 +147,7 @@ nav a:hover {
         vertical-align: top;
         /* margin: 10px; */ 
         position: relative;
-        width: 660px;
+        width: 860px;
         height: 800px;
         background-color: #c9e28f;
         
@@ -201,12 +201,12 @@ nav a:hover {
     
     .cardos{
         display:block;
-        vertical-align: top; 
+        /* vertical-align: top; */ 
         /* margin: 10px; */ 
         position: relative;
-        left: 683px;
+        left: 930px;
         bottom: 800px;
-        width: 664px;
+        width: 860px;
         height: 800px; 
         background-color: #29433d;
     }
