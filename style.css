@@ -147,9 +147,11 @@ nav a:hover {
         vertical-align: top;
         /* margin: 10px; */ 
         position: relative;
-        width: 860px;
+        right: 85px;
+        width: 660px;
         height: 800px;
         background-color: #c9e28f;
+        
         
 
     }
@@ -204,9 +206,9 @@ nav a:hover {
         /* vertical-align: top; */ 
         /* margin: 10px; */ 
         position: relative;
-        left: 930px;
+        left: 600px;
         bottom: 800px;
-        width: 860px;
+        width: 660px;
         height: 800px; 
         background-color: #29433d;
     }
