@@ -419,6 +419,7 @@ h2 #abajo{
 
 
     @media screen and (max-width: 769px){
+
         .banner{
             display: flex;
             flex-direction: column;
@@ -428,8 +429,9 @@ h2 #abajo{
             width: 100%;
             height: auto;
             object-fit: cover;
-
+            }
         .banner div{
             padding: 0 0 0 20px;
+        
         }
     }
