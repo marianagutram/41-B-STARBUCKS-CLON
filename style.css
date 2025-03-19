@@ -434,4 +434,13 @@ h2 #abajo{
             padding: 0 0 0 20px;
         
         }
+
+        .card{
+            
+            height: auto;
+        }
+        .cardos{
+            
+            height: auto;
+        }
     }
